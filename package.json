@@ -2,7 +2,7 @@
   "name": "tmp-cpa",
   "version": "0.1.0",
   "private": true,
-"scripts": {
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "deploy": "npm version patch && npm run deploy:app",

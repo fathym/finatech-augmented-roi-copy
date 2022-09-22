@@ -1,4 +1,4 @@
-name: fathym/finatech-augmented-roi-copy
+name: fathym/public-web
 
 on:
   push:
